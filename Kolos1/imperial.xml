@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImperialUnits>
+    <Unit>
+        <Name>inch</Name>
+        <Symbol>in</Symbol>
+        <ValueInMeters>0.0254</ValueInMeters>
+    </Unit>
+    <Unit>
+        <Name>foot</Name>
+        <Symbol>ft</Symbol>
+        <ValueInMeters>0.3048</ValueInMeters>
+    </Unit>
+    <Unit>
+        <Name>yard</Name>
+        <Symbol>yd</Symbol>
+        <ValueInMeters>0.9144</ValueInMeters>
+    </Unit>
+    <Unit>
+        <Name>mile</Name>
+        <Symbol>mi</Symbol>
+        <ValueInMeters>1609.344</ValueInMeters>
+    </Unit>
+</ImperialUnits>
